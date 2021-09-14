@@ -246,7 +246,7 @@
                     <h2 class="frame-title"><?= lang('customer_information') ?></h2>
 
                     <div class="row frame-content">
-                        <div class="col-12 col-md-6">
+                        <div class="col-12 col-md-12">
                             <div class="form-group">
                                 <label for="first-name" class="control-label">
                                     <?= lang('first_name') ?>
@@ -275,33 +275,6 @@
                                 </label>
                                 <input type="text" id="phone-number" maxlength="60"
                                        class="<?= $require_phone_number === '1' ? 'required' : '' ?> form-control"/>
-                            </div>
-                        </div>
-
-                        <div class="col-12 col-md-6">
-                            <div class="form-group">
-                                <label for="address" class="control-label">
-                                    <?= lang('address') ?>
-                                </label>
-                                <input type="text" id="address" class="form-control" maxlength="120"/>
-                            </div>
-                            <div class="form-group">
-                                <label for="city" class="control-label">
-                                    <?= lang('city') ?>
-                                </label>
-                                <input type="text" id="city" class="form-control" maxlength="120"/>
-                            </div>
-                            <div class="form-group">
-                                <label for="zip-code" class="control-label">
-                                    <?= lang('zip_code') ?>
-                                </label>
-                                <input type="text" id="zip-code" class="form-control" maxlength="120"/>
-                            </div>
-                            <div class="form-group">
-                                <label for="notes" class="control-label">
-                                    <?= lang('notes') ?>
-                                </label>
-                                <textarea id="notes" maxlength="500" class="form-control" rows="1"></textarea>
                             </div>
                         </div>
                     </div>

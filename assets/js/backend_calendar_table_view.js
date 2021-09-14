@@ -705,7 +705,7 @@ window.BackendCalendarTableView = window.BackendCalendarTableView || {};
             allDaySlot: true,
             columnFormat: columnFormat,
             firstDay: firstWeekdayNumber,
-            snapDuration: '00:60:00',
+            snapDuration: '00:15:00',
             header: {
                 left: 'listDay,agendaDay',
                 center: '',
