@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -214,7 +214,7 @@
                         <div class="col-12 col-md-6">
                             <div id="select-time">
                                 <div class="form-group">
-                                    <label for="select-timezone"><?= lang('timezone') ?></label>
+                                    
                                     <?= render_timezone_dropdown('id="select-timezone" class="form-control" value="UTC"'); ?>
                                 </div>
 
@@ -370,9 +370,9 @@
             <div id="frame-footer">
                 <small>
                     <span class="footer-powered-by">
-                        Powered By
+                        Desarrollado por
 
-                        <a href="https://easyappointments.org" target="_blank">Proyecto Mapache</a>
+                        <a href="https://proyectomapache.cl" target="_blank">Proyecto Mapache</a>
                     </span>
 
                     <span class="footer-options">

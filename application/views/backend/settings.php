@@ -518,7 +518,7 @@
 
                 <br><br>
 
-                <a href="https://easyappointments.org">
+                <a href="https://proyectomapache.cl">
                     <?= lang('official_website') ?>
                 </a>
                 |

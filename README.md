@@ -1,6 +1,6 @@
 <h1 align="center">
     <br>
-    <a href="https://easyappointments.org">
+    <a href="https://proyectomapache.cl">
         <img src="https://raw.githubusercontent.com/alextselegidis/easyappointments/develop/docs/images/logo.png" alt="Proyecto Mapache" width="150">
     </a>
     <br>
@@ -11,7 +11,7 @@
 <br>
 
 <h4 align="center">
-    A powerful Open Source Appointment Scheduler that can be installed on your server. 
+    A powerful Padel APP that can be installed on your server. 
 </h4>
 
 <p align="center">
@@ -86,7 +86,7 @@ You will need to perform the following steps to install the application on your 
 
 That's it! You can now use Proyecto Mapache at your will.
 
-You will find the latest release at [easyappointments.org](https://easyappointments.org).
+You will find the latest release at [easyappointments.org](https://proyectomapache.cl).
 If you have problems installing or configuring the application visit the
 [official support group](https://groups.google.com/forum/#!forum/easy-appointments).
 You can also report problems on the [issues page](https://github.com/alextselegidis/easyappointments/issues)
@@ -98,7 +98,7 @@ Code Licensed Under [GPL v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html) | C
 
 ---
 
-Website [alextselegidis.com](https://alextselegidis.com) &nbsp;&middot;&nbsp;
+Website [alextselegidis.com](https://proyectomapache.cl) &nbsp;&middot;&nbsp;
 GitHub [alextselegidis](https://github.com/alextselegidis) &nbsp;&middot;&nbsp;
 Twitter [@alextselegidis](https://twitter.com/AlexTselegidis)
 

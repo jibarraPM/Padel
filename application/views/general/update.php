@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 
@@ -65,7 +65,7 @@
 </div>
 
 <footer>
-    Powered by <a href="https://easyappointments.org">Proyecto Mapache</a>
+    Desarrollado por <a href="https://proyectomapache.cl">Proyecto Mapache</a>
 </footer>
 
 <script src="<?= asset_url('assets/ext/fontawesome/js/fontawesome.min.js') ?>"></script>

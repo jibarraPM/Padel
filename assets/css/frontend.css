@@ -3,7 +3,7 @@
  *
  * @package     EasyAppointments
  * @author      A.Tselegidis <alextselegidis@gmail.com>
- * @copyright   Copyright (c) 2013 - 2020, Alex Tselegidis
+ * @copyright   Copyright (c) 2013 - 2020,JIbarra
  * @license     http://opensource.org/licenses/GPL-3.0 - GPLv3
  * @link        http://easyappointments.org
  * @since       v1.0.0
@@ -40,7 +40,7 @@ body {
     overflow: auto;
     height: auto;
     padding: 20px 15px;
-    background: #429a82;
+    background: #E03E42;
 }
 
 #book-appointment-wizard #company-name {
@@ -129,7 +129,7 @@ body {
     height: 35px;
     width: 35px;
     float: left;
-    background: #225d4d;
+    background: #911429;
     padding: 8px;
     margin-right: 12px;
     margin-top: 6px;
@@ -145,7 +145,7 @@ body {
     font-size: 12px;
     display: block;
     text-align: center;
-    color: #0bb98d;
+    color: #ffffff;
     transition: all .3s linear;
     cursor: default;
 }
@@ -162,7 +162,7 @@ body {
 }
 
 #book-appointment-wizard .active-step strong {
-    color: #429a82;
+    color: #E03E42;
     font-size: 21px;
 }
 
@@ -189,8 +189,8 @@ body {
 }
 
 #book-appointment-wizard #available-hours .selected-hour {
-    background-color: #439a82;
-    border-color: #439a82;
+    background-color: #E03E42;
+    border-color: #E03E42;
     color: white;
 }
 

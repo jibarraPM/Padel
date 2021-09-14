@@ -1,7 +1,7 @@
 {
     "name": "alextselegidis/easyappointments",
     "description": "Open Source Web Scheduler",
-    "homepage": "https://easyappointments.org",
+    "homepage": "https://proyectomapache.cl",
     "type": "project",
     "license": "GPL-3.0",
     "authors": [
@@ -13,7 +13,7 @@
     "support": {
         "issues": "https://github.com/alextselegidis/easyappointments/issues",
         "forum": "https://groups.google.com/forum/#!forum/easy-appointments",
-        "wiki": "https://easyappointments.org/docs",
+        "wiki": "https://proyectomapache.cl/docs",
         "source": "https://github.com/alextselegidis/easyappointments"
     },
     "keywords": [

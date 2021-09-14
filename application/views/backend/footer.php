@@ -1,7 +1,7 @@
 <div id="footer">
     <div id="footer-content" class="col-12 col-sm-8">
         <img class="mr-1" src="<?= base_url('assets/img/logo-16x16.png') ?>" alt="Proyecto Mapache Logo">
-        <a href="https://easyappointments.org">
+        <a href="https://proyectomapache.cl">
             Proyecto Mapache
         </a>
 
@@ -13,8 +13,8 @@
         |
 
         <img class="mx-1" src="<?= base_url('assets/img/alextselegidis-logo-16x16.png') ?>" alt="Alex Tselegidis Logo">
-        <a href="https://alextselegidis.com">
-            Alex Tselegidis
+        <a href="https://proyectomapache.cl">
+           JIbarra
         </a>
         &copy; <?= date('Y') ?> - Software Development
 

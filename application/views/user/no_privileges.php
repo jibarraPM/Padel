@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -34,8 +34,8 @@
 
     <div class="mt-4">
         <small>
-            Powered by
-            <a href="https://easyappointments.org">Proyecto Mapache</a>
+            Desarrollado por
+            <a href="https://proyectomapache.cl">Proyecto Mapache</a>
         </small>
     </div>
 </div>
